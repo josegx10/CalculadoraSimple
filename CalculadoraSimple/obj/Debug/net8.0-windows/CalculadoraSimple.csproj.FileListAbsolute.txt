@@ -1,0 +1,17 @@
+C:\Users\joseg\Documents\proyectos\CalculadoraSimple\CalculadoraSimple\bin\Debug\net8.0-windows\CalculadoraSimple.exe
+C:\Users\joseg\Documents\proyectos\CalculadoraSimple\CalculadoraSimple\bin\Debug\net8.0-windows\CalculadoraSimple.deps.json
+C:\Users\joseg\Documents\proyectos\CalculadoraSimple\CalculadoraSimple\bin\Debug\net8.0-windows\CalculadoraSimple.runtimeconfig.json
+C:\Users\joseg\Documents\proyectos\CalculadoraSimple\CalculadoraSimple\bin\Debug\net8.0-windows\CalculadoraSimple.dll
+C:\Users\joseg\Documents\proyectos\CalculadoraSimple\CalculadoraSimple\bin\Debug\net8.0-windows\CalculadoraSimple.pdb
+C:\Users\joseg\Documents\proyectos\CalculadoraSimple\CalculadoraSimple\obj\Debug\net8.0-windows\CalculadoraSimple.Form1.resources
+C:\Users\joseg\Documents\proyectos\CalculadoraSimple\CalculadoraSimple\obj\Debug\net8.0-windows\CalculadoraSimple.csproj.GenerateResource.cache
+C:\Users\joseg\Documents\proyectos\CalculadoraSimple\CalculadoraSimple\obj\Debug\net8.0-windows\CalculadoraSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseg\Documents\proyectos\CalculadoraSimple\CalculadoraSimple\obj\Debug\net8.0-windows\CalculadoraSimple.AssemblyInfoInputs.cache
+C:\Users\joseg\Documents\proyectos\CalculadoraSimple\CalculadoraSimple\obj\Debug\net8.0-windows\CalculadoraSimple.AssemblyInfo.cs
+C:\Users\joseg\Documents\proyectos\CalculadoraSimple\CalculadoraSimple\obj\Debug\net8.0-windows\CalculadoraSimple.csproj.CoreCompileInputs.cache
+C:\Users\joseg\Documents\proyectos\CalculadoraSimple\CalculadoraSimple\obj\Debug\net8.0-windows\CalculadoraSimple.dll
+C:\Users\joseg\Documents\proyectos\CalculadoraSimple\CalculadoraSimple\obj\Debug\net8.0-windows\refint\CalculadoraSimple.dll
+C:\Users\joseg\Documents\proyectos\CalculadoraSimple\CalculadoraSimple\obj\Debug\net8.0-windows\CalculadoraSimple.pdb
+C:\Users\joseg\Documents\proyectos\CalculadoraSimple\CalculadoraSimple\obj\Debug\net8.0-windows\CalculadoraSimple.genruntimeconfig.cache
+C:\Users\joseg\Documents\proyectos\CalculadoraSimple\CalculadoraSimple\obj\Debug\net8.0-windows\ref\CalculadoraSimple.dll
+C:\Users\joseg\Documents\proyectos\CalculadoraSimple\CalculadoraSimple\obj\Debug\net8.0-windows\CalculadoraSimple.Properties.Resources.resources
