@@ -237,9 +237,9 @@
             // 
             txtResultado.Enabled = false;
             txtResultado.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtResultado.Location = new Point(375, 73);
+            txtResultado.Location = new Point(54, 73);
             txtResultado.Name = "txtResultado";
-            txtResultado.Size = new Size(144, 34);
+            txtResultado.Size = new Size(465, 34);
             txtResultado.TabIndex = 17;
             // 
             // Form1

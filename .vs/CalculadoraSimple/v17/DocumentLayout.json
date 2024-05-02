@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\joseg\\Documents\\proyectos\\CalculadoraSimple\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE633A99-8F85-496B-AB69-AB5F817D0C84}|CalculadoraSimple\\CalculadoraSimple.csproj|C:\\Users\\joseg\\Documents\\proyectos\\CalculadoraSimple\\calculadorasimple\\calcular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE633A99-8F85-496B-AB69-AB5F817D0C84}|CalculadoraSimple\\CalculadoraSimple.csproj|solutionrelative:calculadorasimple\\calcular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE633A99-8F85-496B-AB69-AB5F817D0C84}|CalculadoraSimple\\CalculadoraSimple.csproj|C:\\Users\\joseg\\Documents\\proyectos\\CalculadoraSimple\\calculadorasimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE633A99-8F85-496B-AB69-AB5F817D0C84}|CalculadoraSimple\\CalculadoraSimple.csproj|solutionrelative:calculadorasimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE633A99-8F85-496B-AB69-AB5F817D0C84}|CalculadoraSimple\\CalculadoraSimple.csproj|c:\\users\\joseg\\documents\\proyectos\\calculadorasimple\\calculadorasimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE633A99-8F85-496B-AB69-AB5F817D0C84}|CalculadoraSimple\\CalculadoraSimple.csproj|solutionrelative:calculadorasimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE633A99-8F85-496B-AB69-AB5F817D0C84}|CalculadoraSimple\\CalculadoraSimple.csproj|c:\\users\\joseg\\documents\\proyectos\\calculadorasimple\\calculadorasimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE633A99-8F85-496B-AB69-AB5F817D0C84}|CalculadoraSimple\\CalculadoraSimple.csproj|solutionrelative:calculadorasimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FE633A99-8F85-496B-AB69-AB5F817D0C84}|CalculadoraSimple\\CalculadoraSimple.csproj|C:\\Users\\joseg\\Documents\\proyectos\\CalculadoraSimple\\calculadorasimple\\listaenlazada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE633A99-8F85-496B-AB69-AB5F817D0C84}|CalculadoraSimple\\CalculadoraSimple.csproj|solutionrelative:calculadorasimple\\listaenlazada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE633A99-8F85-496B-AB69-AB5F817D0C84}|CalculadoraSimple\\CalculadoraSimple.csproj|C:\\Users\\joseg\\Documents\\proyectos\\CalculadoraSimple\\calculadorasimple\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE633A99-8F85-496B-AB69-AB5F817D0C84}|CalculadoraSimple\\CalculadoraSimple.csproj|solutionrelative:calculadorasimple\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +35,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Calcular.cs",
+              "DocumentMoniker": "C:\\Users\\joseg\\Documents\\proyectos\\CalculadoraSimple\\CalculadoraSimple\\Calcular.cs",
+              "RelativeDocumentMoniker": "CalculadoraSimple\\Calcular.cs",
+              "ToolTip": "C:\\Users\\joseg\\Documents\\proyectos\\CalculadoraSimple\\CalculadoraSimple\\Calcular.cs",
+              "RelativeToolTip": "CalculadoraSimple\\Calcular.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAAAIsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:40:24.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "listaEnlazada.cs",
+              "DocumentMoniker": "C:\\Users\\joseg\\Documents\\proyectos\\CalculadoraSimple\\CalculadoraSimple\\listaEnlazada.cs",
+              "RelativeDocumentMoniker": "CalculadoraSimple\\listaEnlazada.cs",
+              "ToolTip": "C:\\Users\\joseg\\Documents\\proyectos\\CalculadoraSimple\\CalculadoraSimple\\listaEnlazada.cs",
+              "RelativeToolTip": "CalculadoraSimple\\listaEnlazada.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:37:42.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\joseg\\Documents\\proyectos\\CalculadoraSimple\\CalculadoraSimple\\Nodo.cs",
+              "RelativeDocumentMoniker": "CalculadoraSimple\\Nodo.cs",
+              "ToolTip": "C:\\Users\\joseg\\Documents\\proyectos\\CalculadoraSimple\\CalculadoraSimple\\Nodo.cs",
+              "RelativeToolTip": "CalculadoraSimple\\Nodo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:36:50.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\joseg\\Documents\\proyectos\\CalculadoraSimple\\CalculadoraSimple\\Form1.cs",
               "RelativeDocumentMoniker": "CalculadoraSimple\\Form1.cs",
               "ToolTip": "C:\\Users\\joseg\\Documents\\proyectos\\CalculadoraSimple\\CalculadoraSimple\\Form1.cs",
               "RelativeToolTip": "CalculadoraSimple\\Form1.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAtwFoAAAAAAAAA",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAFgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T22:48:59.033Z",
               "EditorCaption": ""

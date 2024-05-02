@@ -88,7 +88,14 @@ namespace CalculadoraSimple
 
         private void button15_Click(object sender, EventArgs e)
         {
-
+            if (txtOperacion.Text != null)
+            {
+                var calculos = new Calcular();
+                calculos.IngresarCadena(txtOperacion.Text);
+                txtResultado.Text = calculos.CalcularOperacion();
+                txtOperacion.Text = "";
+                txtOperacion.Focus();
+            }
         }
     }
 }
